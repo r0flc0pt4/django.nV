@@ -1,6 +1,8 @@
 django.nV
 =========
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/django.nV.svg)](https://www.guardrails.io)
+
 django.nV is a purposefully vulnerable Django application provided by [nVisium](https://www.nvisium.com/).
 
 ### System Requirements & Setup 
